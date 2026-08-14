@@ -1,4 +1,4 @@
-"""Deterministic and interview-friendly EnergyShield risk scoring."""
+"""Deterministic and easy-to-explain EnergyShield risk scoring."""
 
 from __future__ import annotations
 

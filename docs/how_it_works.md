@@ -148,7 +148,7 @@ The project quickly converts each dataclass instance to a dictionary with `to_di
 
 `min(score, 100)` caps the final value. `risk_level_for_score()` loops over the configured risk bands and returns Normal, Low, Medium, High, or Critical.
 
-The function also appends a text explanation for every applied factor. The dashboard displays those strings, making the result easy to audit and explain in an interview.
+The function also appends a text explanation for every applied factor. The dashboard displays those strings, making the result easy to audit and explain to another person.
 
 Severity and risk are not identical. Severity comes from the matched rule. Risk combines severity with user, host, failure-count, and related-event context.
 
@@ -326,4 +326,4 @@ Study the DataFrame creation in `dashboard/app.py`, then one chart and one filte
 
 Study `src/mitre_mapping.py`, `src/incident_response.py`, and `docs/energy_sector_context.md`. Explain why ATT&CK is context rather than proof and why OT containment requires operations coordination.
 
-Do not put the project on a resume until you can run it, explain one event end-to-end, change a threshold safely, describe a limitation, and answer the interview questions without reading the code.
+Before presenting the project as your own work, make sure you can run it, explain one event end-to-end, change a threshold safely, and describe its limitations without reading the code.

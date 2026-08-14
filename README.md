@@ -62,7 +62,7 @@ EnergyShield uses one shared analysis pipeline for both interfaces. The full com
 - CLI mode that requires no dashboard dependencies
 - Markdown incident reports saved under `reports/`
 - Unit tests for thresholds, network aggregation, scoring, and malformed input
-- Detailed learning, interview, and resume guides under `docs/`
+- Detailed architecture, detection, incident-response, and learning guides under `docs/`
 
 ## Technologies
 
@@ -268,11 +268,6 @@ The step-by-step teaching path is in [docs/how_it_works.md](docs/how_it_works.md
 - Expand OT-specific monitoring while continuing to avoid control functionality
 
 These are roadmap ideas, not features claimed by the current version.
-
-## Interview and Resume Preparation
-
-- [docs/interview_guide.md](docs/interview_guide.md) — 15 honest interview questions and sample answers
-- [docs/resume_bullets.md](docs/resume_bullets.md) — project title, resume bullets, LinkedIn text, and recruiter pitch
 
 ## Ethical / Safety Disclaimer
 

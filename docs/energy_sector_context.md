@@ -65,4 +65,4 @@ EnergyShield reflects this by adding OT-specific investigation and containment c
 
 ## What This Project Can and Cannot Demonstrate
 
-EnergyShield can demonstrate log normalization, threshold rules, risk context, ATT&CK vocabulary, alert visualization, and cautious response planning. It cannot demonstrate PLC programming, industrial protocols, safety engineering, electrical operations, production SIEM scale, or real incident handling. Those limitations should be stated clearly in interviews and on a resume.
+EnergyShield can demonstrate log normalization, threshold rules, risk context, ATT&CK vocabulary, alert visualization, and cautious response planning. It cannot demonstrate PLC programming, industrial protocols, safety engineering, electrical operations, production SIEM scale, or real incident handling. Those limitations should be stated clearly whenever the project is described.
